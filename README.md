@@ -3,7 +3,7 @@ Due to the recent emergence of COVID-19, chaos and economic destruction have spr
 
 # Porject Folder Structure:
 - The code.ipynb - Jupyter notebook that includes all the code
-- The COVID-19 folder contains the dataset
+- The covid chestxray folder contains the dataset
 
 # Porject Architectures :
 - Xception model
