@@ -13,9 +13,9 @@ Due to the recent emergence of COVID-19, chaos and economic destruction have spr
 
 
 
-# Licensing
+# Citation
 Our scientific paper has been included in the WHO in Global literature on Coronavirus disease.
-Cite our paper: http://paper.ijcsns.org/07_book/202008/20200811.pdf
+Please cite our paper:https://pesquisa.bvsalud.org/global-literature-on-novel-coronavirus-2019-ncov/resource/pt/covidwho-896143
 
 # Contact
 If you have any suggestions or questions, please reach out to sadeem1.alharthi on Gmail
